@@ -10,7 +10,7 @@ To make things even more complicate they transfered the money internally from on
 
 # The Solution:
 
-Set up an internal exchange/ trading plattform based on IOTA by using the trinity wallet. I tried it with the light wallet as well, but that was to difficult for the kids because of the missing currency exchange in the light wallet.
+Set up an internal exchange/ trading plattform based on IOTA by using the trinity wallet. I tried it with the light wallet as well, but that was to difficult for the kids because of the missing currency exchange in the light wallet. 
 
 
 # Advantage:
@@ -36,7 +36,7 @@ They learn to set proper passwords for the wallet and that passwords are importa
 
 # Implementation: 
 
-The central account managed by my wife by using her mobile wallet. The account is filled with enough iotas for the next 3 month plus the start amount for each child for the initial setup.
+The central pocket money account is managed by my wife by using her mobile wallet. The account is filled with enough iotas for the next 3 month plus the start amount for each child for the initial setup.
 
 I generated for each of them one seed and set up the wallet for them on there individual ipad. The only think they had to do was to set the password in the wallet. But even if they forget that, the iotas are not lost because I still have the seed.
 
@@ -56,4 +56,6 @@ Next Monday we will switch to the process based on the exchange rate. Then every
 The python script for the daily payout works so far, but the implementation based on the exchange rate is still missing, but there are many API where I can grep the value. So this wan't be a problem.
 
 
-# Feel free to copy the idea and have fun . 
+# Feel free to copy the idea and have fun. 
+
+The next step is finalicing the phython script and put that in here as well.
