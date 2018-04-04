@@ -1,9 +1,11 @@
 # iota_kidsFund
-Pocket money management for kids 
+Pocket money management for kids based on IOTA. 
+
+# Feel free to copy the idea. 
 
 # Motivation:
 
-We have 3 kids 10, 12 and 16 years old. In the past there was a lot of confusion about how much money the kids already spend and if they got their pocket money already.  My wife tried to manage that in the past with putting notes into her mobile phone, but the kids did either manipulate the notes, discussed endlessly that they didn't get enough or that the notes where wrong. 
+We have 3 kids 10, 12 and 16 years old. In the past there was a lot of confusion about how much money the kids already spend and if they got their pocket money already.  My wife tried to manage that in the past by putting notes into her mobile phone, but the kids did either manipulate the notes, discussed endlessly that they didn't get enough or just claimed that the notes where out of date. 
 
 To make things even more complicate they transfered the money internally from one to another for different reasons. My wife than had to manage this transfer as well, which made things even worse.
 
@@ -23,11 +25,11 @@ We are no longer needed for internal money transfer between the kids.
 
 They have a documented list what they got and how much they spend and for what purpose. 
 
-They learn about trading and exchanges. The oldest son (16) has already a binance acount. So he can try to increase his money by trading. If that doesn't work its his money he is loosing .
+They learn about trading and exchanges. The oldest son (16) has already a binance acount. So he can try to increase his money by trading. If that doesn't work its his money he is loosing :-)
 
-If the course goes up they benefit from the increase, but only if they didn't spend the money already.
+If IOTA rises they benefit from the increase, but only if they didn't spend the money already. 
 
-They learn to not to spend the money and benefit from better exchange rates for iota in the long term.
+They learn to save the money and benefit from better exchange rates for iota in the long term.
 
 They can't loose the money in case they loose their password, because you still have the seed.
 
@@ -36,7 +38,7 @@ They learn to set proper passwords for the wallet and that passwords are importa
 
 # Implementation: 
 
-The central pocket money account is managed by my wife by using her mobile wallet. The account is filled with enough iotas for the next 3 month plus the start amount for each child for the initial setup.
+The central pocket money account is managed by us by using the mobile wallet. The account is filled with enough iotas for the next 3 month plus the start amount for each child for the initial setup.
 
 I generated for each of them one seed and set up the wallet for them on there individual ipad. The only think they had to do was to set the password in the wallet. But even if they forget that, the iotas are not lost because I still have the seed.
 
@@ -49,13 +51,20 @@ When they buy stuff for example in apple store, amazone, or they wan't EUR they 
 
 # Rollout:
 
-We trained that yesterday and within 30 minutes the kids and my wife where able to transfer test iotas from one to another. This week we are testing it just with iotas. To make things easy for the tryout 1 EUR = 100 iota.
+It takes about 30 Minutes to teach the kids how to transfer money to another. At the biginning I recommend to test it with a fixed simulated exchange rate. In our case 1 EUR was 100 iotas. So that everyone get used to the procedure. 
 
-Next Monday we will switch to the process based on the exchange rate. Then every kid gets his initial amount based on EUR to the actual EUR rate.
+After that every kid gets his initial amount of IOTAs based on the actual EUR rate.
 
 The python script for the daily payout works so far, but the implementation based on the exchange rate is still missing, but there are many API where I can grep the value. So this wan't be a problem.
 
 
-# Feel free to copy the idea and have fun. 
+# Next Steps: 
 
-The next step is finalicing the phython script and put that in here as well.
+Finalicing the phython script and put that in here as well.
+Include energy management as well so that the kids will financialy benefit when they use less energy for example by switching there lights of when they leave their room. The infrastructure and the sensoric is already in place (FHEM, Homematic and all kinds of Arduinos)    
+
+
+# Donations
+Donations are always welcome and they will be split even between the family members :-)
+
+XQACAUKMMPELIZQMBKHIO9ANAXNYDTVYKITEBININTVBXWEUYGJAQUTG9W9SWJEEYWFNAKRPWGPZOSSDDNAHQOAQBC
